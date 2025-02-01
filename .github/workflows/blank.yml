@@ -2,5 +2,5 @@ name: Hello World
 
 jobs:
   test:
-    steps:
-      - name: 24f2000695@ds.study.iitm.ac.in
+    step:
+       name: 24f2000695@ds.study.iitm.ac.in
