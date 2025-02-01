@@ -1,6 +1,0 @@
-name: Hello World
-
-jobs:
-  test:
-    step:
-       name: 24f2000695@ds.study.iitm.ac.in
