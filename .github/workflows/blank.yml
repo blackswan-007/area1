@@ -2,7 +2,7 @@ name: Hello World Action
 
 jobs:
   test:
-    runs-on: ubuntu-latest
     steps:
-      - name: 24F2000695@ds.study.iitm.ac.in
+      - name: 24f2000695@ds.study.iitm.ac.in
         run: echo "Hello, world!"
+      
